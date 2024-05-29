@@ -1,0 +1,6 @@
+---
+title: "Analisis de datos de felidos de costa rica"
+author: "Jenny gonzalez"
+format: html
+---
+
